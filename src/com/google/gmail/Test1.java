@@ -4,7 +4,7 @@ public class Test1
 {
 public void dispalys()
 {
-	System.out.println("hello world");
+	System.out.println("hello   world");
 }
 public static void main (String args[])
 {
